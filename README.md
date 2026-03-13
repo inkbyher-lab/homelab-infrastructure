@@ -1,3 +1,37 @@
+the infrastructure:
+
+
+
+Laptop
+
+&#x20;  │
+
+&#x20;  ▼
+
+Apps VM
+
+&#x20;  ├─ Nginx
+
+&#x20;  ├─ Docker
+
+&#x20;  │
+
+&#x20;  ▼
+
+DB VM
+
+&#x20;  ├─ PostgreSQL
+
+&#x20;  └─ Redis
+
+
+
+
+
+
+
+
+
 homelab-infrastructure/
 
 │
